@@ -49,7 +49,7 @@
         <p>SEO involves a variety of methods used to increase visitors to your website and achieve a high rank in Google's search results.</p>
         <p>SEO is used to make a website accessible to a search engine and increases the chances that the website will be found by a search engine.</p>`
     }, {
-      title: 'Director level, equivalent or above, so strategic people, leading and decision-making.',
+      title: 'What level of management do you work with?',
       description: `<p>Director level, equivalent or above, so strategic people, leading and decision-making.</p>`
     }, {
       title: 'Will the marketing be just to architects and interior designers?',

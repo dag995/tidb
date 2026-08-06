@@ -18,23 +18,6 @@
     
     <div class="intro">
       <h1 >The UK Interior Design Bureau</h1>
-      <h2>Services Offered</h2>
-      <p>We offer services ranging from advisory and consultancy through to full digital media marketing provision and supporting business services. Our core focus is the creative specifier audience (interior designer, architect, professional specifiers) however we encompass all market audiences our client wishes to target with the exception of consumer/retail.</p>
-    </div>
-
-    <div class="w-860">
-      <h3>Our services are designed for:-</h3>
-      <div class="columns">
-        <div class="column-33">
-          <p><strong>Manufacturers</strong> - Wishing to win attention from creative specifiers for their products</p>
-        </div>
-        <div class="column-33">
-          <p><strong>Suppliers</strong> - Needing to increase sales via interior designers and architects</p>
-        </div>
-        <div class="column-33">
-          <p><strong>Fabricators</strong> - Wishing to create more working relationships with architects and designers</p>
-        </div>
-      </div>
     </div>
 
     <div class="blobs">
@@ -46,9 +29,33 @@
         </div>
       {/each}
     </div>
-    <div style="max-width:660px;padding:60px 20px 10px;margin:0 auto;">
+    
+    <div class="w-860" style="max-width:660px;padding:20px;margin-top:40px;">
+      <h2>Our services are designed for:-</h2>
+      <h4><strong>Manufacturers</strong> - Wishing to win attention from creative specifiers for their products</h4>
+      <h4><strong>Suppliers</strong> - Needing to increase sales via interior designers and architects</h4>
+      <h4><strong>Fabricators</strong> - Wishing to create more working relationships with architects and designers</h4>
+    </div>
+
+    <div style="max-width:660px;padding:20px;margin:0 auto;">
+      <h2>Based on first-hand industry knowledge</h2>
       <p>The UK Interior Design Bureau's services are based on first-hand industry knowledge as interior designers.</p>
       <p>Because we understand how creative specifiers source, evaluate and specify products we are able to help manufacturers become more visible and compelling to architects and interior designers, driving enquiries and specifications</p>
+    </div>
+    
+    <div style="max-width:660px;padding:20px;margin:0 auto;">
+      <h2>Services Offered</h2>
+      <p>We offer services ranging from advisory and consultancy through to full digital media marketing provision and supporting business services. Our core focus is the creative specifier audience (interior designer, architect, professional specifiers) however we encompass all market audiences our client wishes to target with the exception of consumer/retail.</p>
+    </div>
+
+    <div class="blobs">
+      {#each services as s}
+        <div style={`background-color:${s.color}`}>
+          <div>
+            <a href={s.url} title={s.title}>{@html s.header}</a>
+          </div>
+        </div>
+      {/each}
     </div>
 
     <Services />
@@ -67,7 +74,6 @@
     padding-bottom:10px;
     text-align: center;
   }
-  .intro h2,
   h3 {
     color:#575757;
     font-size:1.8em;
@@ -77,6 +83,12 @@
   h3 {
     font-size:1.6em;
     margin-bottom:10px;
+  }
+  h4 {
+    font-size:1.2em;
+    line-height: normal;
+    margin-bottom:10px;
+    color:rgba(33,37,41);
   }
   .blobs {
     display: grid;
