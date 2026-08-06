@@ -12,7 +12,10 @@
     <div class="intro">
       <h1 >The UK Interior Design Bureau</h1>
       <h2>Getting Specified</h2>
-      <p>Offering a foundation for effective marketing to Creative Specifiers (interior designers, architects and product specifiers)</p>
+      <p>Having your product specified whereby it is included in the research stage, selected, presented to the designer's client, approved and the product data recorded in the specification document is the goal for many suppliers and manufacturers. You want this to happen as many times as possible.</p>
+      <p>You are probably already aware that achieving this is not a simple task. The product, or service, needs to be found, and the related essential data needs to be easy to assimilate and to communicate to the designer's client before the specification stage is reached.</p>
+      <p>There is no single action that can be taken to ensure being selected but a series of elements that need to be in place as a basis for getting specified. </p>
+      <p>Here is how those elements come together in these four core areas.</p>
     </div>
 
     <HowWeHelp />
