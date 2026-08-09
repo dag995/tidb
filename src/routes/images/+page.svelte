@@ -1,6 +1,48 @@
 <div class="tidb-wrap">
   <div class="tidb-container">
 
+    <div class="intro">
+      <h1 >The UK Interior Design Bureau</h1>
+      <h2>Getting Specified</h2>
+    </div>
+
+    <div class="w-720">
+      <div class="columns">
+        <div class="column-25">
+          <img 
+            src="/images/flower_01.svg" 
+            alt="Selling via interior designers and architects - your launch pad" 
+            title="Selling via interior designers and architects - your launch pad" 
+          />
+          <h3>Selling via interior designers and architects - your launch pad</h3>
+        </div>
+        <div class="column-25">
+          <img 
+            src="/images/flower_02.svg" 
+            alt="Launching your product into the interior design and architectural market"
+            title="Launching your product into the interior design and architectural market"
+          />
+          <h3>Launching your product into the interior design and architectural market</h3>
+        </div>
+        <div class="column-25">
+          <img 
+            src="/images/flower_03.svg" 
+            alt="Keeping your product visible to interior designers and architects"
+            title="Keeping your product visible to interior designers and architects"
+          />
+          <h3>Keeping your product visible to interior designers and architects</h3>
+        </div>
+        <div class="column-25">
+          <img 
+            src="/images/flower_04.svg" 
+            alt="Building a product range for creative specifiers"
+            title="Building a product range for creative specifiers"
+          />
+          <h3>Building a product range for creative specifiers</h3>
+        </div>
+      </div>
+    </div>
+
     <div class="img_wrap">
       <p class="img">
         <img src="/images/idshowcase_home_01.jpg"
@@ -123,4 +165,33 @@
   </div>
 </div>
 
-
+<style>
+  .intro {
+    padding:80px 20px 0;
+    max-width:560px;
+    margin:0 auto;
+  }
+  .intro h1 {
+    margin-bottom:0;
+    padding-bottom:10px;
+    text-align: center;
+  }
+  .intro h2 {
+    color:#575757;
+    font-size:1.8em;
+    margin:0;
+    text-align: center;
+  }
+  h3 { 
+    font-size:1.2em;
+    line-height: normal;
+    margin-top:10px;
+  }
+  .w-720 {
+    margin:60px auto;
+    /* text-align: center; */
+  }
+  .column-25 img {
+    max-width:160px;
+  }
+</style>

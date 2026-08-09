@@ -327,8 +327,8 @@ table ul {
 }
 .columns .column-25,
 .tidb-wrap .columns .column-25 {
-  width:24.5%;
-  flex-basis:24.5%;
+  width:24%;
+  flex-basis:24%;
 }
 .columns .column-33,
 .tidb-wrap .columns .column-33 {
