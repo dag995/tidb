@@ -32,9 +32,9 @@
     
     <div class="w-860" style="max-width:660px;padding:20px;margin-top:40px;">
       <h2>Our services are designed for:-</h2>
-      <h4><strong>Manufacturers</strong> - Wishing to win attention from creative specifiers for their products</h4>
-      <h4><strong>Suppliers</strong> - Needing to increase sales via interior designers and architects</h4>
-      <h4><strong>Fabricators</strong> - Wishing to create more working relationships with architects and designers</h4>
+      <p><strong>Manufacturers</strong> - Wishing to win attention from creative specifiers for their products</p>
+      <p><strong>Suppliers</strong> - Needing to increase sales via interior designers and architects</p>
+      <p><strong>Fabricators</strong> - Wishing to create more working relationships with architects and designers</p>
     </div>
 
     <div style="max-width:660px;padding:20px;margin:0 auto;">
@@ -45,7 +45,8 @@
     
     <div style="max-width:660px;padding:20px;margin:0 auto;">
       <h2>Services Offered</h2>
-      <p>We offer services ranging from advisory and consultancy through to full digital media marketing provision and supporting business services. Our core focus is the creative specifier audience (interior designer, architect, professional specifiers) however we encompass all market audiences our client wishes to target with the exception of consumer/retail.</p>
+      <p>We offer services ranging from advisory and consultancy through to full digital media marketing provision and supporting business services.</p>
+      <p>Our core focus is the creative specifier audience (interior designer, architect, professional specifiers) however we encompass all market audiences our client wishes to target with the exception of consumer/retail.</p>
     </div>
 
     <div class="blobs">

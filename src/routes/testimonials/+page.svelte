@@ -36,9 +36,51 @@
       <p>We had been uncomfortably aware that the Dulux brand being predominantly retail can create a barrier to being considered by interior designers, architects and their clients for specification.</p>
       <p>The industry insight provided by TIDB illuminated to our marketing team all of the product USPs that are crucial to the creative specifier, not just the aesthetic. As a result we have been enabled in proving our worth to creative specifiers and demonstrate through our product presentation, language and service that we are serious about serving this customer genre. Through these actions we have significantly improved our online position, engagement and sales figures with the interior designer and architect market</p>
       <cite>
-        Fleming, Global Marketing Manager
+        Vicki Fleming, Global Marketing Manager
         <br />
         <em>Dulux, Akzo Nobel, Slough, UK</em>
+      </cite>
+    </blockquote>
+
+    <blockquote>
+      <img src="/images/carl-jarvis.jpg" alt="Carl Jarvis Marketing" title="Carl Jarvis Marketing" style="width:120px;" />
+      <p>It's been a real pleasure working with Carol and Dan at TIDB.</p>
+      <p>Their in-depth knowledge of the interior design industry is testament to the dedication and years of hands-on experience gained.</p>
+      <p>TIDB offers a high quality professional service that demonstrates a real grip on the key drivers required to make a product range commercially successful. Carol and Dan quickly built an understanding of our product and service and tailored all the industry insight to be pertinent to our business model as well as encouraging us to explore beyond our usual scope.</p>
+      <p>Market data on the interior design sector proved almost impossible to find, and I didn't know where else to turn. The UK Interior Design Bureau answered my questions and gave me practical guidance on how to approach this market.</p>
+      <p>Their  engaging style and friendly demeanour makes working with TIDB a truly enjoyable experience.</p>
+      
+      <cite>
+        Carl Jarvis, Founder
+        <br />
+        <em>Carl Jarvis Marketing</em>
+      </cite>
+    </blockquote>
+
+    <blockquote>
+      <img src="/images/arcform-lighting.png" alt="Studio Arcform Lighting" title="Studio Arcform Lighting" style="width:120px;" />
+      <p>We were keen to move more towards specifiers as our customer base but, although we had a handful of interior design customers, we didn't seem to be able to grow that clientele.</p>
+      <p>Carol and Dan at TIDB helped us work through what we needed to do to attract these customers and convert them. Entwined with this was learning more about the cycle of procurement and specifying on large projects.</p>
+      <p>Learning what USP's are of greatest benefit to interior designers and specifiers has been invaluable in investing time in the correct areas of our business, growing our business and attracting more customers.</p>
+      
+      <cite>
+        Jen Hughes, Owner
+        <br />
+        <em>Studio Arcform Lighting</em>
+      </cite>
+    </blockquote>
+
+    <blockquote>
+      <img src="/images/seven_meadows_ltd_logo.jpg" alt="Seven Meadows Interior Brands" title="Seven Meadows Interior Brands" style="width:120px;" />
+      <p>I recently had the pleasure of working with TIDB, and I can confidently say that our experience has been truly rewarding. Right from the start, the information was presented clearly and professionally, making the entire process smooth and enjoyable.</p>
+      <p>The materials provided by TIDB were filled with thoughtful insights, showcasing their deep knowledge and understanding of the interiors industry. This level of expertise is incredibly valuable for anyone looking to grow their business with designers and architects in mind.</p>
+      <p>I've sought similar guidance in the past but often found the advice to be too vague or generic to be actionable. The insights provided by TIDB were detailed and specific, allowing us to make informed decisions about our strategy moving forward.</p>
+      <p>If you're looking for a partner to help enhance your approach and strengthen your connections within the interiors market, I wholeheartedly recommend TIDB. </p>
+      
+      <cite>
+        Yara Gremoli, Founder
+        <br />
+        <em>Seven Meadows Interior Brands</em>
       </cite>
     </blockquote>
 
