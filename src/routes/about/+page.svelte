@@ -50,13 +50,6 @@
         <p>Believing that Interior Design as a collective should be held accountable for its participation of unethical practices, Jecks pursued studies in vegan design and in 2017 became a “certified cruelty free” designer with international organisation Vegandesign.org. As one of the first UK designers to do so, Jecks is a contributing writer exploring the topics that arise from designing without animals.</p>
         <p>Jecks is very enthusiastic about making design more accessible as everyone should be able to navigate through spaces without losing their dignity. Persona Abode likes to collaborate with independent brands with strong ethical stances as well as those who care about the pools of communities that are affected by hardship.</p>`
     }, {
-      image: 'molly_anderson.jpg',
-      title: 'Molly Anderson',
-      position: 'Interior designer, Vancouver, Canada',
-      description: `<p>Molly was originally a farm girl from Yorkshire until she moved to the Big Smoke (aka London) to start her design career. After four years of living and working in the capital the pull of adventure and the great outdoors resulted in her emigrating to Vancouver, Canada. Three years on and she is still just as much an indoor as an outdoor enthusiast, which is why Vancouver is the perfect setting for her. The fact that you can be at an art gallery one evening and then night-skiing the next, is something that she still finds wonderfully mind boggling.</p>
-        <p>Molly is particularly interested in the psychology of design and how it can impact the human mind. She continually strives to embed the most recent design and psychology learnings into her projects in order to benefit the future user of her designs.</p>
-        <p>When she is not designing interiors, you can find her decorating cakes or taking wild swims in the crystal blue lakes for which Canada is famous.</p>`
-    }, {
       image: 'federico_de_paoli.jpg',
       title: 'Federico de Paoli',
       position: 'Architect and Associate Partner',
