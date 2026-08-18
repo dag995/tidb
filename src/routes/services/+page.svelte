@@ -46,7 +46,7 @@
     <div style="max-width:660px;padding:20px;margin:0 auto;">
       <h2>Services Offered</h2>
       <p>We offer services ranging from advisory and consultancy through to full digital media marketing provision and supporting business services.</p>
-      <p>Our core focus is the creative specifier audience (interior designer, architect, professional specifiers) however we encompass all market audiences our client wishes to target with the exception of consumer/retail.</p>
+      <p>Our core focus is the creative specifier audience (interior designer, architect, professional specifier) however we encompass all market audiences our client wishes to target with the exception of consumer/retail.</p>
     </div>
 
     <div class="blobs">
