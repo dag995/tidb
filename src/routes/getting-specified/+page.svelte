@@ -8,7 +8,19 @@
 
 <div class="tidb-wrap">
   <div class="tidb-container">
-    
+
+    <div class="img_wrap">
+      <p class="img">
+        <img src="/images/idshowcase_home_01.jpg"
+          alt="The Lanesborough Club, Spa Hotel London by 1508 London. The design concept is based on the Hotel's principles of 'Bespoke, Intuitive, Discrete and Intimate'."
+          title="The Lanesborough Club, Spa Hotel London by 1508 London. The design concept is based on the Hotel's principles of 'Bespoke, Intuitive, Discrete and Intimate'."
+        />
+      </p>
+      <div class="caption">
+        The Lanesborough Club, Spa Hotel London by 1508 London. The design concept is based on the Hotel's principles of 'Bespoke, Intuitive, Discrete and Intimate'.
+      </div>
+    </div>
+
     <div class="intro">
       <h1 >The UK Interior Design Bureau</h1>
       <h2>Getting Specified</h2>
