@@ -18,6 +18,13 @@
         description: `<p>Daniel is a business-minded full-stack developer with over ten years' experience helping companies in visual presentation, technical problem solving and digital strategy.</p>
           <p>Having an ethos for producing the correct result, Daniels skill-set complemented Carol's objectives to deliver vast amounts of detail in the fastest, most coherent way. This led to TIDB (The UK Interior Design Bureau) being set up by Daniel and Carol in the understanding that being fit-for-purpose was more effective than decorative digital design when marketing to creative specifiers.</p>
           <p>Daniel is a keen art and film enthusiast, immersing himself in all forms of art and media in his personal and professional life.</p>`
+      }, {
+        image: 'holly_waters-marsh.jpg',
+        title: 'Holly Waters-Marsh',
+        position: 'Associate',
+        description: `<p>Holly launched a marketing consultancy, following an extensive international career in strategic marketing and product development. A key focus of the consultancy is sustainability strategy and messaging, in line with current global pressures.</p>
+          <p>The ethos of the consultancy stems from an inquisitiveness to find out more about new businesses and their products and services, to offer market knowledge and strategic guidance, ultimately leading to commercial success. Largely focused on the built environment, she works with companies along the supply chain from manufacturers to specifiers.</p>
+          <p>Holly loves travelling, after having lived in several countries across Europe and speaking multiple languages. When she's not travelling, you'll find her with her husband and their 2 cats, Audrey and Coco, who have also lived abroad.</p>`
       } ],
     team: [{
       image: 'robin_fisher.jpg',
@@ -27,37 +34,37 @@
     }, {
       image: 'antonio_moll.jpg',
       title: 'Antonio Moll',
-      position: 'Principal Architect for Moll Architects',
+      position: 'Director at Moll Architects | London, UK',
       description: '<p>Antonio studied architecture in Valencia and obtained his masters degree “Housing Laboratory of the 21st century” in Barcelona. Based in London, his firm operates in the fields of architecture, urbanism and design. Antonio combines the professional practice with his activity as a writer and academic, has been a guest lecturer at universities in Spain such as Zaragoza and Barcelona and a guest critic at the Architectural Association in London. Antonio is passionate about sports. Former basketball player, regular at the ski slopes in winter, he’s now testing the waters in triathlon competitions during the warmer months.</p>'
     }, {
       image: 'naomi_evans.jpg',
       title: 'Naomi Evans',
-      position: 'Architect and Project Leader, Genton, Melbourne, Australia',
+      position: 'Associate, Cox Architecture | Greater Melbourne, Australia',
       description: `<p>Naomi Evans is Project Leader in architecture for Genton in Melbourne, Australia, In my 10+ years of practicing in the architecture profession I have gained valuable experience with some highly reputable studios including Cox Architecture in Melbourne and Feilden Clegg Bradley Studios in London. I have been privileged to work on a variety of high- profile and community-based projects, and have gained excellent experience in the design of public buildings and spaces. In October 2010, I relocated to Adelaide to form part of the seminal Cox Adelaide Studio. I was a member of the architectural team for the Adelaide Oval Redevelopment and specialised on the building’s facades from Concept Design through to Documentation. I have since been a member of the design teams for the ABC Southbank Studios Refurbishment, various works for the Sydney Cricket & Sports Ground Trust, and the new Victorian Cricket and Community Centre.</p>
       <p>My role has required me to support the design process in its breadth of phases including master planning and spatial planning.</p>`
     }, {
       image: 'lolca_adeokun.jpg',
       title: 'Lola Adeokun',
-      position: 'Architect and Researcher with Colman Architects',
+      position: 'Senior Architect, Director, O.N.A Architects | Greater London, UK',
       description: `<p>Dr Cynthia Adeokun is a registered architect based in the United Kingdom, with many years of professional and academic experience in the construction industry in the United Kingdom, Kenya and Nigeria. She obtained her doctorate degree in Architecture at the University College, London, United Kingdom in 2007 whilst also pursuing a full-time professional career.</p>
         <p>After many years of working in the private sector in London on sports and retail architectural projects, she took up an academic position as a senior lecturer at Covenant University, Ota, Nigeria, where she taught at undergraduate and post-graduate levels for over three years. Her research interests include housing needs, domestic space morphology and lifestyles in African towns and cities.</p>
         <p>She has published several peer-reviewed conference and journal papers on housing, domestic space morphology and architectural education, and has also served as a member of scientific review committees at international built environment academic conferences and was recently appointed as an external examiner at the School of Construction Management, University of Wittswatersrand, South Africa.</p>`
     }, {
       image: 'jecks_stone.jpg',
       title: 'Jecks Stone',
-      position: 'Interior Designer & Founder of Persona Abode Interiors',
+      position: 'Interior Designer, Founder of Persona Abode | London UK',
       description: `<p>Jecks Stone founded Persona Abode Interiors to specialise in designing eco-conscious homes. With over a decade of experience in Listed Building conservation, her focus is creating space for wellness through functional environments to feed client’s health and happiness.</p>
         <p>Believing that Interior Design as a collective should be held accountable for its participation of unethical practices, Jecks pursued studies in vegan design and in 2017 became a “certified cruelty free” designer with international organisation Vegandesign.org. As one of the first UK designers to do so, Jecks is a contributing writer exploring the topics that arise from designing without animals.</p>
         <p>Jecks is very enthusiastic about making design more accessible as everyone should be able to navigate through spaces without losing their dignity. Persona Abode likes to collaborate with independent brands with strong ethical stances as well as those who care about the pools of communities that are affected by hardship.</p>`
     }, {
       image: 'federico_de_paoli.jpg',
       title: 'Federico de Paoli',
-      position: 'Architect and Associate Partner',
+      position: 'Associate Partner, Lead Architect | Kuwait City Metropolitan Area',
       description: `<p>Federico de Paoli is an experienced architect and planner and is Associate Partner for an international firm of architects. He graduated from Università degli Studi di Genova and is currently supervising the build of Kuwait International Airport. Federico has a strong arts and design focus and his specialities are design, design management, taking concept design to site and supervising construction.</p>`
     }, {
       image: 'gracia_ramirez.jpg',
       title: 'Gracia Ramírez',
-      position: 'Academic and Art Critic based in London',
+      position: 'Senior Lecturer, University of the Arts | London, UK',
       description: `<p>Gracia Ramírez is an academic and art critic based in the UK where she lectures at University of the Arts London. She is interested in a variety of media and art practices and her research spans widely, from the history of experimental and independent cinema to art and media in urban spaces. She also publishes writings on artists and exhibitions reviews.</p>`
     }]
   }
@@ -76,7 +83,7 @@
     </div>
 
     <div class="w-860" style="padding-right:20px;padding-left:20px;padding-top:40px;">
-      <h2>TIDB Team</h2>
+      <h2>TIDB Leadership Team</h2>
     </div>
 
     <div class="columns" style="justify-content:center;">
@@ -119,8 +126,8 @@
     </div>
 
     <div class="w-860" style="padding-right:20px;padding-left:20px;padding-top:40px;">
-      <h2>TIDB Writers Team</h2>
-      <p>We are made up of a team of interior designers and architects with a sprinkling of English graduates.</p>
+      <h2>TIDB Writering Team</h2>
+      <p>The UK Interior Design Bureau is UK-based, with authors based around the world writing on design and architectural subjects from an international perspective.</p>
     </div>
 
     <div class="columns">
