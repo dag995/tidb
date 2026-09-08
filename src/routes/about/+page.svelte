@@ -4,7 +4,7 @@
   let overlay = $state({ type: '', key: 0 })
   const team = {
     management: [ { 
-        image: 'carol_rutter.jpg',
+        image: 'carol_rutter_02.jpg',
         title: 'Carol Rutter',
         position: 'Projects Director',
         description: `<p>Carol set up her own interior design business over twenty years ago after having worked as a designer for Barratt, the housebuilder.</p>
@@ -66,6 +66,11 @@
       title: 'Gracia Ramírez',
       position: 'Senior Lecturer, University of the Arts | London, UK',
       description: `<p>Gracia Ramírez is an academic and art critic based in the UK where she lectures at University of the Arts London. She is interested in a variety of media and art practices and her research spans widely, from the history of experimental and independent cinema to art and media in urban spaces. She also publishes writings on artists and exhibitions reviews.</p>`
+    }, {
+      image: 'steve_manjaly.jpg',
+      title: 'Steve Manjaly',
+      position: 'Editor,  UI/UX, design | Kochi, Kerala, India',
+      description: `<p>Steve Manjaly is a writer and editor with experience across design, technology, business and digital culture. His work combines research with a clear, accessible writing style, exploring subjects and ideas from an international perspective.</p>`
     }]
   }
 </script>
