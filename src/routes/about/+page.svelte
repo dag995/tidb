@@ -237,7 +237,7 @@
   }
   .column-25 h4,
   .column-33 h4 {
-    font-size:1.2em;
+    font-size:1em;
     line-height:normal;
     margin:0;
     padding:10px 0 0;
