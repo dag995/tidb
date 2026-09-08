@@ -70,7 +70,8 @@
       image: 'steve_manjaly.jpg',
       title: 'Steve Manjaly',
       position: 'Editor,  UI/UX, design | Kochi, Kerala, India',
-      description: `<p>Steve Manjaly is a writer and editor with experience across design, technology, business and digital culture. His work combines research with a clear, accessible writing style, exploring subjects and ideas from an international perspective.</p>`
+      description: `<p>Steve Manjaly is a writer and content marketer with seven years' experience writing across technology, software, design and the built environment. His work spans a broad range of subjects including User Interface, User Experience, 3D modelling and digital technology.</p>
+        <p>Alongside writing, Steve has developed marketing strategies and content for businesses across a range of industries, giving him a broad understanding of how different audiences engage with information and ideas. This experience informs his approach to writing, combining research with an understanding of the subject, its audience and its wider context.</p>`
     }]
   }
 </script>
