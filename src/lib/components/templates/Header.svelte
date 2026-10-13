@@ -158,7 +158,7 @@
     }
     header .wrapper .inner-wrapper {
       flex-wrap:wrap;
-      justify-content: center;
+      justify-content:space-between;
     }
     header .tagline {
       font-size:14px;
@@ -224,11 +224,17 @@
       align-items: center;
       justify-content: center;
       height:100vh;
-      gap:10%;
+      gap:2%;
     }
     header nav.active ul li {
-      font-size:2em;
+      font-size:1.3em;
       font-weight:bold;
+      width: 100%;
+      text-align: center;
+      display: block;
+    }
+    header nav.active ul li a {
+      width:100%;
     }
   }
 </style>
