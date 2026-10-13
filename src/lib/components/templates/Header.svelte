@@ -42,12 +42,54 @@
 
       <nav class={mobile ? 'active' : ''}>
         <ul class="nav">
-          <li><a href="/about" title="About">About</a></li>
-          <li><a href="/testimonials" title="Testimonials">Testimonials</a></li>
-          <li><a href="/getting-specified" title="Getting Specified">Getting Specified</a></li>
-          <li><a href="/services" title="Services">Services</a></li>
-          <li><a href="/faq" title="FAQ">FAQ</a></li>
-          <li><a href="/contact" title="Contact">Contact</a></li>
+          <li>
+            <a 
+              href="/about" 
+              title="About" 
+              onclick={() => { 
+                mobile = false 
+              }}
+            >About</a></li>
+          <li>
+            <a 
+              href="/testimonials" 
+              title="Testimonials" 
+              onclick={() => { 
+                mobile = false 
+              }}
+            >Testimonials</a></li>
+          <li>
+            <a 
+              href="/getting-specified" 
+              title="Getting Specified" 
+              onclick={() => { 
+                mobile = false 
+              }}
+            >Getting Specified</a></li>
+          <li>
+            <a 
+              href="/services" 
+              title="Services" 
+              onclick={() => { 
+                mobile = false 
+              }}
+            >Services</a></li>
+          <li>
+            <a 
+              href="/faq" 
+              title="FAQ" 
+              onclick={() => { 
+                mobile = false 
+              }}
+            >FAQ</a></li>
+          <li>
+            <a 
+              href="/contact" 
+              title="Contact" 
+              onclick={() => {
+                mobile = false
+              }}
+            >Contact</a></li>
         </ul>
       </nav>
       <a
