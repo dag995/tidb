@@ -40,7 +40,7 @@
         <p class="tagline">Facilitating Product Visibility &amp; <br>Selection</p>
       </div>
 
-      <nav>
+      <nav class={mobile ? 'active' : ''}>
         <ul class="nav">
           <li><a href="/about" title="About">About</a></li>
           <li><a href="/testimonials" title="Testimonials">Testimonials</a></li>
@@ -50,6 +50,16 @@
           <li><a href="/contact" title="Contact">Contact</a></li>
         </ul>
       </nav>
+      <a
+        href="/" 
+        title="Mobile Menu Open" 
+        class={`mobile_menu${mobile ? ' active' : ''}`}
+        aria-label="mobile menu open"
+        onclick={e => {
+          e.preventDefault()
+          mobile = !mobile
+        }}
+      ></a>
 
     </div>
   </div>
@@ -132,13 +142,17 @@
   header ul li a:hover {
     text-decoration: underline;
   }
+  header .mobile_menu { 
+    display:none; 
+    z-index:10000;
+  }
 
-  @media (max-width: 1000px) {
+  @media(max-width: 1000px) {
     header ul {
       flex-wrap: nowrap;
     }
   }
-  @media (max-width: 720px) {
+  @media(max-width: 720px) {
     header .wrapper {
       padding:10px;
     }
@@ -156,6 +170,65 @@
     header ul {
       margin-top:10px;
       flex-wrap: nowrap;
+    }
+  }
+  @media(max-width: 600px) {
+    header .mobile_menu {
+      display:block;
+      width:30px;
+      height:10px;
+      position: relative;
+    }
+    header .mobile_menu:before,
+    header .mobile_menu:after {
+      display:block;
+      content: ' ';
+      position: relative;
+      position: absolute;
+      height:2px;
+      width:100%;
+      background-color:var(--theme-color);
+      left:0;
+    }
+    header .mobile_menu:before { top:0; }
+    header .mobile_menu:after { bottom:0; }
+
+    header .mobile_menu.active:before {
+      top:calc(50% - 1px);
+      transform:rotate(45deg);
+    }
+    header .mobile_menu.active:after {
+      bottom:calc(50% - 1px);
+      transform:rotate(-45deg);
+    }
+
+    header nav {
+      display:none;
+    }
+    header ul { 
+      flex-wrap: nowrap;
+    }
+    header nav.active {
+      display:block;
+      position: relative;
+      position: fixed;
+      top:0;
+      left:0;
+      width:100%;
+      height:100vh;
+      background:#FFF;
+    }
+    header nav.active ul {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height:100vh;
+      gap:10%;
+    }
+    header nav.active ul li {
+      font-size:2em;
+      font-weight:bold;
     }
   }
 </style>
